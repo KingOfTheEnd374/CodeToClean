@@ -13,3 +13,5 @@ https://www.gabrielgambetta.com/entity-interpolation.html
 https://wizardcell.com/unreal/multiplayer-tips-and-tricks/#1522-gamestate-replication-timing-guarantee
 
 https://www.youtube.com/watch?v=QGIKrD7uHu8
+
+https://www.youtube.com/watch?v=dOkuIvKCvpg
